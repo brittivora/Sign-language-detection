@@ -5,3 +5,5 @@ tensorflow==2.12.0
 tensorflow-hub==0.12.0
 mediapipe==0.10.21
 scikit-learn==1.1.1
+setuptools>=65.5.0
+wheel
